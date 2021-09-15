@@ -62,6 +62,8 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Elements of Programming: Values and Types](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/ElementsOfProgramming.ipynb)
 * [More Elements of Programming: Statements, Expressions, Errors, and Input](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/MoreElementsOfProgramming.ipynb)
 * [Conditionals](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Conditionals.ipynb)
+* [Functions: An Introduction](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/FunctionsIntroduction.ipynb)
+* [Functions: Design and Best Practices](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/FunctionsBestPractices.ipynb)
 
 > **Note:** These links are _not_ the same as clicking on the filenames in GitHub—they have additional information that actually open these notebook files in Google Colaboratory.
 >

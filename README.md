@@ -59,7 +59,7 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lab03_HeatCheck.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab03_HeatCheck.ipynb)
 * [Lab04_TakeAWalk.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab04_TakeAWalk.ipynb)
 * [Lab05_WalkWithPurpose.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab05_WalkWithPurpose.ipynb)
-* [Lab06_MixingString.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab06_MixingStrings.ipynb)
+* [Lab06_MixingStrings.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab06_MixingStrings.ipynb)
 
 ### Class Companions
 

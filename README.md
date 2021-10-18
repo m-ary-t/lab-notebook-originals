@@ -63,6 +63,7 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lab07_MakingAList.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab07_MakingAList.ipynb)
 * [Lab08_TextSimilarity.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab08_TextSimilarity.ipynb)
 * [Lab09_ChoosingDataStructures.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab09_ChoosingDataStructures.ipynb)
+* [Lab10_IntroToRecursion.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab10_IntroToRecursion.ipynb)
 
 ### Class Companions
 

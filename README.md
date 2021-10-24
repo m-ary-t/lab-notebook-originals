@@ -78,6 +78,9 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lists](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lists.ipynb)
 * [Dictionaries](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Dictionaries.ipynb)
 * [Tuples](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Tuples.ipynb)
+* [Recursion](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Recursion.ipynb)
+* [Recursion Case Studies](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Recursion_Case_Studies.ipynb)
+* [Turtle Power!](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Turtles.ipynb)
 
 > **Note:** These links are _not_ the same as clicking on the filenames in GitHub—they have additional information that actually open these notebook files in Google Colaboratory.
 >

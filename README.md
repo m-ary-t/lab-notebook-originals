@@ -66,6 +66,7 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lab10_IntroToRecursion.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab10_IntroToRecursion.ipynb)
 * [Lab11_MoreRecursion.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab11_MoreRecursion.ipynb)
 * [Lab12_TurtleFractals.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab12_TurtleFractals.ipynb)
+* [Lab13_MakingClasses.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab13_MakingClasses.ipynb)
 
 ### Class Companions
 

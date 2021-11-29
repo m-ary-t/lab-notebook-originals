@@ -69,6 +69,8 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lab13_MakingClasses.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab13_MakingClasses.ipynb)
 * [Lab14_RockPaperScissors.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab14_RockPaperScissors.ipynb)
 * [Lab15_WhereAreFarmersMarkets.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab15_WhereAreFarmersMarkets.ipynb)
+* [Lab16_PiEstimator.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab16_PiEstimator.ipynb)
+* [Lab17_SkateRamp.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab17_SkateRamp.ipynb)
 
 ### Class Companions
 
